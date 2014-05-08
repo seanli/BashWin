@@ -1,4 +1,4 @@
-= Bash for Windows = [![Live Demo](http://usekite.com/live-demo-button.png?)](http://usekite.com/deploy/Elesant/BashWin)
+= Bash for Windows = [![Live Demo](http://usekite.com/live-demo-button.png?)](http://usekite.com/deploy/Elesant/BashWin) [![Live Demo](https://usekite.com/live-demo-button.png)](https://localhost/deploy)
 The fastest way to get your bash scripts running on Windows
 
 == What is it? ==
